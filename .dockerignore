@@ -1,0 +1,30 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Entornos virtuales
+.env
+.venv
+
+# Git
+.git
+.gitignore
+
+# Logs
+*.log
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
